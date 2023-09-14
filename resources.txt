@@ -1,0 +1,5 @@
+Ahmed | c:2, c++:3, java:1
+Ayesha | c:2, c++:2, assembly:2
+Ali | c++:3, java:3
+Salman | java:4, javascript:2, python:2
+Sara | python:3, javascript:2
